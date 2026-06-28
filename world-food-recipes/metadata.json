@@ -1,0 +1,6 @@
+{
+  "name": "World Food Recipes",
+  "description": "Discover, Cook, Share, and Experience Food From Around the World.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
