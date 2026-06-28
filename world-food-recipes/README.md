@@ -16,7 +16,7 @@ A modern full-stack web application built for exploring international heritage c
 
 ## 💻 How to Run This App on Your Laptop (Google Chrome)
 
-If your teacher or examiner wants to run this project locally on their computer, follow these simple steps:
+If your want to run this project locally on your computer, follow these simple steps:
 
 ### Prerequisites
 - **Node.js** (v18 or higher) installed on your system. You can download it for free at [nodejs.org](https://nodejs.org/).
